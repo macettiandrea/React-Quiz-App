@@ -11,7 +11,7 @@ This project is an interactive quiz application built with React. It allows user
 
 ## Screenshot
 
-![Quiz App Screenshot]([https://https://github.com/macettiandrea/React-Quiz-App/blob/main/Screenshot/Screenshot.png](https://github.com/macettiandrea/React-Quiz-App/blob/master/Screenshot.png))
+![Quiz App Screenshot]([https://github.com/macettiandrea/React-Quiz-App/blob/master/Screenshot.png])
 
 ## Dependencies
 
